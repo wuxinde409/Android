@@ -1,0 +1,4 @@
+#Mon Mar 07 20:34:08 CST 2022
+base.0=C\:\\Users\\USER\\Desktop\\109590046_hw2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
