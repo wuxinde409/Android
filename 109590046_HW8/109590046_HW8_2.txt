@@ -1,0 +1,3 @@
+colorPrimary
+Design Support Library
+Any color shade labeled 500.
