@@ -1,0 +1,3 @@
+Smallest screen width
+res/values-fr-rFR/
+res/values

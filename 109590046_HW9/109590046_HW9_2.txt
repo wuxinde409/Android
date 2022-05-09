@@ -1,0 +1,3 @@
+Match a View, perform an action, and assert and verify the result.
+@RunWith
+onData() to load the adapter and enable the child View to appear on the screen.
