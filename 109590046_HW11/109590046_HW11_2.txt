@@ -1,0 +1,10 @@
+You use notification channels to display notifications to the user in the device status bar.
+You use notification channels to group multiple notifications so that the user can control the notifications' behavior.
+
+NotificationManager.notify()
+
+Icon that represents the action
+
+NotificationCompat.Builder.addAction()
+
+PendingIntent.getService()
