@@ -1,0 +1,3 @@
+onPause()
+onCreate()
+I can't.
